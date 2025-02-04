@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://api.croma.com/searchservices/v1/category/997?currentPage=0&query=:discount-desc&fields=FULL&channel=WEB",
+    "url": "https://api.croma.com/searchservices/v1/category/997?query=:discount-desc&fields=FULL&channel=WEB",
     "discount": 70,
     "pincodes": [560066,226028]
   },
