@@ -2,51 +2,51 @@
   {
     "url": "https://api.croma.com/searchservices/v1/category/997?fields=FULL&channel=WEB&query=:discount-desc:SG-ManufacturerDetails-Brand:Samsung:SG-ManufacturerDetails-Brand:LG:SG-ManufacturerDetails-Brand:TCL:SG-ManufacturerDetails-Brand:iFFALCON:SG-ManufacturerDetails-Brand:Akai:SG-ManufacturerDetails-Brand:Foxsky:SG-ManufacturerDetails-Brand:Haier:discount_group:80%25%20And%20Above",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   },
   {
     "url": "https://api.croma.com/searchservices/v1/category/5?query=:discount-desc:discount_group:80%25%20And%20Above&fields=FULL&channel=WEB",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   },
    {
     "url": "https://api.croma.com/searchservices/v1/category/1?query=:discount-desc:SG-ManufacturerDetails-Brand:Samsung:SG-ManufacturerDetails-Brand:LG:SG-ManufacturerDetails-Brand:Apple:SG-ManufacturerDetails-Brand:Sony:SG-ManufacturerDetails-Brand:Philips:SG-ManufacturerDetails-Brand:Xiaomi:SG-ManufacturerDetails-Brand:Spigen:SG-ManufacturerDetails-Brand:JBL:SG-ManufacturerDetails-Brand:SanDisk:SG-ManufacturerDetails-Brand:Kingston:SG-ManufacturerDetails-Brand:Sennheiser:SG-ManufacturerDetails-Brand:Logitech:SG-ManufacturerDetails-Brand:fastrack:discount_group:80%25%20And%20Above&fields=FULL&channel=WEB",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   },
   {
     "url": "https://api.croma.com/searchservices/v1/category/3?query=:discount-desc:SG-ManufacturerDetails-Brand:Samsung:SG-ManufacturerDetails-Brand:LG:SG-ManufacturerDetails-Brand:Sony:SG-ManufacturerDetails-Brand:Philips:SG-ManufacturerDetails-Brand:Lenovo:SG-ManufacturerDetails-Brand:JBL:SG-ManufacturerDetails-Brand:SanDisk:SG-ManufacturerDetails-Brand:Xiaomi:SG-ManufacturerDetails-Brand:Asus:SG-ManufacturerDetails-Brand:Kingston:SG-ManufacturerDetails-Brand:Nokia:SG-ManufacturerDetails-Brand:Sennheiser:SG-ManufacturerDetails-Brand:Acer:SG-ManufacturerDetails-Brand:Logitech:SG-ManufacturerDetails-Brand:SoundLogic:discount_group:80%25%20And%20Above&fields=FULL&channel=WEB",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   },
   {
     "url": "https://api.croma.com/searchservices/v1/category/292?query=:discount-desc:SG-ManufacturerDetails-Brand:Samsung:SG-ManufacturerDetails-Brand:LG:SG-ManufacturerDetails-Brand:Apple:SG-ManufacturerDetails-Brand:Sony:SG-ManufacturerDetails-Brand:Philips:SG-ManufacturerDetails-Brand:OnePlus:SG-ManufacturerDetails-Brand:HP:SG-ManufacturerDetails-Brand:Xiaomi:SG-ManufacturerDetails-Brand:JBL:SG-ManufacturerDetails-Brand:Bose:SG-ManufacturerDetails-Brand:Marshall:SG-ManufacturerDetails-Brand:Nothing:SG-ManufacturerDetails-Brand:Amazon:SG-ManufacturerDetails-Brand:Sennheiser:SG-ManufacturerDetails-Brand:Logitech:SG-ManufacturerDetails-Brand:HyperX:SG-ManufacturerDetails-Brand:Creative:SG-ManufacturerDetails-Brand:Onikuma:SG-ManufacturerDetails-Brand:Google:SG-ManufacturerDetails-Brand:ViewSonic:SG-ManufacturerDetails-Brand:Dyson:SG-ManufacturerDetails-Brand:SoundLogic:SG-ManufacturerDetails-Brand:Belkin:SG-ManufacturerDetails-Brand:ANKER:discount_group:80%25%20And%20Above&fields=FULL&channel=WEB",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   },
     {
     "url": "https://api.croma.com/searchservices/v1/category/8?query=:discount-desc:discount_group:80%25%20And%20Above&fields=FULL&channel=WEB",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   },
     {
     "url": "https://api.croma.com/searchservices/v1/category/7?query=:discount-desc:discount_group:60%25%20To%2080%25:discount_group:80%25%20And%20Above&fields=FULL&channel=WEB",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   },
     {
     "url": "https://api.croma.com/searchservices/v1/category/3002?query=:discount-desc:discount_group:80%25%20And%20Above&fields=FULL&channel=WEB",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   },
     {
     "url": "https://api.croma.com/searchservices/v1/category/935?query=:discount-desc:discount_group:80%25%20And%20Above&fields=FULL&channel=WEB",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   },
     {
     "url": "https://api.croma.com/searchservices/v1/category/1021111?query=:discount-desc:discount_group:60%25%20To%2080%25:discount_group:80%25%20And%20Above&fields=FULL&channel=WEB",
     "discount": 80,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   }
 ]
