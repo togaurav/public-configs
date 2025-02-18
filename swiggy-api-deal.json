@@ -3,17 +3,20 @@
       {
         "storeId": 1387561,
         "primaryStoreId": 1387561,
-        "secondaryStoreId": 1400960
+        "secondaryStoreId": 1400960,
+        "add":"g210"
       },
       {
         "storeId": 1382655,
         "primaryStoreId": 1382655,
-        "secondaryStoreId": 1400609
+        "secondaryStoreId": 1400609,
+          "add":"dd"
       },
       {
         "storeId": 1398442,
         "primaryStoreId": 1398442,
-        "secondaryStoreId": ""
+        "secondaryStoreId": "",
+          "add":"lko"
       }
     ],
     "searchItems": [
