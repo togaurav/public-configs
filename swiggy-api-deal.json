@@ -51,6 +51,14 @@
     {
       "search_keyword": "oil",
       "discount_bar": 70
+    },
+    {
+      "search_keyword": "chicken",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "fish",
+      "discount_bar": 70
     }
   ]
 }
