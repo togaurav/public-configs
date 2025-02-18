@@ -1,0 +1,55 @@
+[
+  {
+    "store": [
+      {
+        "storeId": 1387561,
+        "primaryStoreId": 1387561,
+        "secondaryStoreId": 1400960
+      },
+      {
+        "storeId": 1382655,
+        "primaryStoreId": 1382655,
+        "secondaryStoreId": 1400609
+      },
+      {
+        "storeId": 1398442,
+        "primaryStoreId": 1398442,
+        "secondaryStoreId": ""
+      }
+    ],
+    "searchItems": [
+      {
+        "search_keyword": "atta",
+        "discount_bar": 70
+      },
+      {
+        "search_keyword": "Supreme%20Harvest",
+        "discount_bar": 70
+      },
+      {
+        "search_keyword": "rice",
+        "discount_bar": 70
+      },
+      {
+        "search_keyword": "detergent",
+        "discount_bar": 70
+      },
+      {
+        "search_keyword": "Ice%20Creams",
+        "discount_bar": 70
+      },
+      {
+        "search_keyword": "shampoo",
+        "discount_bar": 70
+      },
+      {
+        "search_keyword": "namkeen",
+        "discount_bar": 70
+      },
+      {
+        "search_keyword": "oil",
+        "discount_bar": 70
+      }
+    ]
+  }
+]
