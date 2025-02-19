@@ -2,12 +2,12 @@
   "store": [
     {
       "storeId": "042b55a7-bfcf-46e8-8cc2-56ba2b4dc7cf",
-      "storedIds": "042b55a7-bfcf-46e8-8cc2-56ba2b4dc7cf",
+      "storeIds": "042b55a7-bfcf-46e8-8cc2-56ba2b4dc7cf",
       "add": "g210"
     },
     {
       "storeId": "425e2ef0-02bc-4c87-b423-cfbc6e56984a",
-      "storedIds": "425e2ef0-02bc-4c87-b423-cfbc6e56984a,1c9e155e-83a8-457a-a687-01eabb1e7a36",
+      "storeIds": "425e2ef0-02bc-4c87-b423-cfbc6e56984a,1c9e155e-83a8-457a-a687-01eabb1e7a36",
       "add": "dd"
     }
   ],
