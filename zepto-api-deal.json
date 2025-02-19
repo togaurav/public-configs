@@ -1,0 +1,64 @@
+{
+  "store": [
+    {
+      "storeId": "042b55a7-bfcf-46e8-8cc2-56ba2b4dc7cf",
+      "storedIds": "042b55a7-bfcf-46e8-8cc2-56ba2b4dc7cf",
+      "add": "g210"
+    },
+    {
+      "storeId": "425e2ef0-02bc-4c87-b423-cfbc6e56984a",
+      "storedIds": "425e2ef0-02bc-4c87-b423-cfbc6e56984a,1c9e155e-83a8-457a-a687-01eabb1e7a36",
+      "add": "dd"
+    }
+  ],
+  "searchItems": [
+    {
+      "search_keyword": "atta",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "daily good",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "rice",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "detergent",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "Ice%20Creams",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "shampoo",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "namkeen",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "oil",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "chicken",
+      "discount_bar": 55
+    },
+    {
+      "search_keyword": "fish",
+      "discount_bar": 55
+    },
+    {
+      "search_keyword": "dal",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "Popular%20Essentials",
+      "discount_bar": 70
+    }
+  ]
+}
