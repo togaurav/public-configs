@@ -67,6 +67,18 @@
     {
       "search_keyword": "Popular%20Essentials",
       "discount_bar": 70
+    },
+    {
+      "search_keyword": "cashew",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "almond",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "pistachio",
+      "discount_bar": 70
     }
   ]
 }
