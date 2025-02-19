@@ -59,6 +59,14 @@
     {
       "search_keyword": "fish",
       "discount_bar": 70
+    },
+    {
+      "search_keyword": "dal",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "Popular%20Essentials",
+      "discount_bar": 70
     }
   ]
 }
