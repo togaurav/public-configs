@@ -79,6 +79,14 @@
     {
       "search_keyword": "pistachio",
       "discount_bar": 70
+    },
+    {
+      "search_keyword": "curd",
+      "discount_bar": 50
+    },
+    {
+      "search_keyword": "paneer",
+      "discount_bar": 50
     }
   ]
 }
