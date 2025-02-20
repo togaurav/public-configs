@@ -14,7 +14,7 @@
   "searchItems": [
     {
       "search_keyword": "atta",
-      "discount_bar": 70
+      "discount_bar": 50
     },
     {
       "search_keyword": "daily good",
@@ -22,11 +22,11 @@
     },
     {
       "search_keyword": "rice",
-      "discount_bar": 70
+      "discount_bar": 60
     },
     {
       "search_keyword": "detergent",
-      "discount_bar": 70
+      "discount_bar": 60
     },
     {
       "search_keyword": "Ice%20Creams",
@@ -38,11 +38,11 @@
     },
     {
       "search_keyword": "namkeen",
-      "discount_bar": 70
+      "discount_bar": 60
     },
     {
       "search_keyword": "oil",
-      "discount_bar": 70
+      "discount_bar": 60
     },
     {
       "search_keyword": "chicken",
@@ -54,7 +54,7 @@
     },
     {
       "search_keyword": "dal",
-      "discount_bar": 70
+      "discount_bar": 60
     },
     {
       "search_keyword": "Popular%20Essentials",
@@ -62,7 +62,7 @@
     },
     {
       "search_keyword": "cashew",
-      "discount_bar": 70
+      "discount_bar": 60
     },
     {
       "search_keyword": "almond",
@@ -70,7 +70,7 @@
     },
     {
       "search_keyword": "pistachio",
-      "discount_bar": 70
+      "discount_bar": 60
     },
     {
       "search_keyword": "curd",
