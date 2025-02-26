@@ -1,7 +1,6 @@
-[
-  {
-    "url": "https://www.flipkart.com/grocery/pr?q=multigrain+atta&marketplace=GROCERY&predictiveHint=Search+for+atta&sid=search.flipkart.com&as-show=on&pageUID=1740553926807",
+{
+    "url": "https://www.flipkart.com/grocery/pr?sid=73z&marketplace=GROCERY&p%5B%5D=facets.discount_range_v1%255B%255D%3D50%2525%2Bor%2Bmore",
     "discount": 60,
-    "pincodes": [560066,226028]
+    "pincodes": [560066,226028,560067]
   }
 ]
