@@ -11,79 +11,75 @@
   ],
   "searchItems": [
     {
-      "url": "atta",
+      "search_keyword": "atta",
       "discount_bar": 50
     },
     {
-      "url": "daily good",
+      "search_keyword": "rice",
+      "discount_bar": 60
+    },
+    {
+      "search_keyword": "detergent",
+      "discount_bar": 60
+    },
+    {
+      "search_keyword": "Ice%20Creams",
       "discount_bar": 70
     },
     {
-      "url": "rice",
-      "discount_bar": 60
-    },
-    {
-      "url": "detergent",
-      "discount_bar": 60
-    },
-    {
-      "url": "Ice%20Creams",
+      "search_keyword": "shampoo",
       "discount_bar": 70
     },
     {
-      "url": "shampoo",
-      "discount_bar": 70
-    },
-    {
-      "url": "namkeen",
+      "search_keyword": "namkeen",
       "discount_bar": 60
     },
     {
-      "url": "oil",
+      "search_keyword": "oil",
       "discount_bar": 60
     },
     {
-      "url": "chicken",
+      "search_keyword": "chicken",
       "discount_bar": 55
     },
     {
-      "url": "fish",
+      "search_keyword": "fish",
       "discount_bar": 55
     },
     {
-      "url": "dal",
+      "search_keyword": "dal",
       "discount_bar": 60
     },
     {
-      "url": "Popular%20Essentials",
+      "search_keyword": "cashew",
+      "discount_bar": 60
+    },
+    {
+      "search_keyword": "almond",
       "discount_bar": 70
     },
     {
-      "url": "cashew",
+      "search_keyword": "pistachio",
       "discount_bar": 60
     },
     {
-      "url": "almond",
-      "discount_bar": 70
-    },
-    {
-      "url": "pistachio",
-      "discount_bar": 60
-    },
-    {
-      "url": "curd",
+      "search_keyword": "curd",
       "discount_bar": 50
     },
     {
-      "url": "paneer",
+      "search_keyword": "paneer",
       "discount_bar": 50
     },
     {
-      "url": "rechargeable batteries",
+      "search_keyword": "cheese",
       "discount_bar": 50
     },
     {
-      "url": "Tilapia",
+      "search_keyword": "butter",
+      "discount_bar": 50
+    },
+    {
+      "search_keyword": "egg",
       "discount_bar": 40
     }
   ]
