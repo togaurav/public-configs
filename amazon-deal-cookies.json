@@ -1,28 +1,26 @@
 {
   "store": [
     {
-      "add" : "g210",
-      "session-id" : "261-5467016-9258769",
-      "session-token" : "HUgwTRThx+D9iy3Qi5UiV5etEk4E7ckbOvOPwWklFCSejpBNijlrYbaQWXMtkEWWfZqZMIxgMCRElPZv7YublpSMwTwoz3SpasAOEaDORsvVRddxFqMhlqfKjGsbD8jHVndUekgJlF+SiV/9mVXBQ3rnsflNxsrn2fpjQpBxPns0kBrcejeYoh8cDQiKSjAPTzM77ituPPrdrideKP+IbKzJeWiYz7alztHGi/V/HUhmYFa9h2dV/RQVaUnkkkYL1S8DaR85HqQoJeia70AdZhi7a9HZBCJ09R7I3cTyY7ArR3vdXDDYck87kUav0G921bAeQYGz1q5fjSz1QShHJ/9wIE0AHVae",
-      "ubid-acbin" : "261-0613024-8964713"
+      "add": "g210",
+      "session-id": "261-5467016-9258769",
+      "session-token": "HUgwTRThx+D9iy3Qi5UiV5etEk4E7ckbOvOPwWklFCSejpBNijlrYbaQWXMtkEWWfZqZMIxgMCRElPZv7YublpSMwTwoz3SpasAOEaDORsvVRddxFqMhlqfKjGsbD8jHVndUekgJlF+SiV/9mVXBQ3rnsflNxsrn2fpjQpBxPns0kBrcejeYoh8cDQiKSjAPTzM77ituPPrdrideKP+IbKzJeWiYz7alztHGi/V/HUhmYFa9h2dV/RQVaUnkkkYL1S8DaR85HqQoJeia70AdZhi7a9HZBCJ09R7I3cTyY7ArR3vdXDDYck87kUav0G921bAeQYGz1q5fjSz1QShHJ/9wIE0AHVae",
+      "ubid-acbin": "261-0613024-8964713"
     },
     {
       "add": "dd",
-      "session-id" : "259-7741694-3764645",
-      "session-token" : "nnA2CmZ2SF/xMDg44rZsMixICc4//ZWR2tiAAlP0+Ncnx4lx+TsVG9FrUC6kkFHiKpI5aEhsxcULrOaXWAyIMrnDkC3cpOrioQ6S1FhFsPN8fRRkOJmBpdHlZhCNNuJ5z6Sqg7WkAFWeFGesOrNNm5O34LuUkW+uZwJy/RWTulNZP4h3FdRp6o4pVK9KNhc3lbZOtxBDR2xAk4RSAf1F3dYHKCkry2PrSV++VsnxAbM5oElkGsiiBN/B7uy4AyvqVXBUxXZP50yqpAmc1BBtQD3J7mQBtnIQqbZmonFmy/V9OjsmdLWDD+KLB0+spkHuPW1X2TIWzDjqm+GEySCnmzVojJlkQQl+",
-      "ubid-acbin" : "262-5713400-1395930"
+      "session-id": "259-7741694-3764645",
+      "session-token": "nnA2CmZ2SF/xMDg44rZsMixICc4//ZWR2tiAAlP0+Ncnx4lx+TsVG9FrUC6kkFHiKpI5aEhsxcULrOaXWAyIMrnDkC3cpOrioQ6S1FhFsPN8fRRkOJmBpdHlZhCNNuJ5z6Sqg7WkAFWeFGesOrNNm5O34LuUkW+uZwJy/RWTulNZP4h3FdRp6o4pVK9KNhc3lbZOtxBDR2xAk4RSAf1F3dYHKCkry2PrSV++VsnxAbM5oElkGsiiBN/B7uy4AyvqVXBUxXZP50yqpAmc1BBtQD3J7mQBtnIQqbZmonFmy/V9OjsmdLWDD+KLB0+spkHuPW1X2TIWzDjqm+GEySCnmzVojJlkQQl+",
+      "ubid-acbin": "262-5713400-1395930"
     },
     {
       "add": "lko",
-      "session-id" : "258-6622028-5063540",
-      "session-token" : "+wPBcsvUAuK7K1c7PhwHdu/gbH9J5L04QET9FWF5EVSEirwmIRI836CQ2ZI5FA5PjvoIZ8Nr4sMzt1ikyaAOXL7SdMWfzqBMfwOkmjvZQ+N6ThtMdaNwDuMYr9/sD/c0sEuByZ+t6GGFfFDpHbcCWKOl3lwtkzu0Saoxk6ae4Zd+LxxQfyQ49Ngq/+pQAS9SYiPuYJSNhyaMnIt/YT4k+Ea1Ryr6mEZj0xefV1KQqi8TmVkse9jApAlI5vwonWQmXmFqv4nOp9BOamVDbJtDuCY6fKwwp9XWWuTLOxV+QVk2CuBKVc9dWNIQzfUr8dKZQMEs5ObHDan0cxnWmErL4Zpv6oBrjU09",
-      "ubid-acbin" : "257-6061469-5576061"
+      "session-id": "258-6622028-5063540",
+      "session-token": "+wPBcsvUAuK7K1c7PhwHdu/gbH9J5L04QET9FWF5EVSEirwmIRI836CQ2ZI5FA5PjvoIZ8Nr4sMzt1ikyaAOXL7SdMWfzqBMfwOkmjvZQ+N6ThtMdaNwDuMYr9/sD/c0sEuByZ+t6GGFfFDpHbcCWKOl3lwtkzu0Saoxk6ae4Zd+LxxQfyQ49Ngq/+pQAS9SYiPuYJSNhyaMnIt/YT4k+Ea1Ryr6mEZj0xefV1KQqi8TmVkse9jApAlI5vwonWQmXmFqv4nOp9BOamVDbJtDuCY6fKwwp9XWWuTLOxV+QVk2CuBKVc9dWNIQzfUr8dKZQMEs5ObHDan0cxnWmErL4Zpv6oBrjU09",
+      "ubid-acbin": "257-6061469-5576061"
     }
   ],
-  "urlAndDiscount": [
-    {
-      "url": "https://www.amazon.in/s?i=grocery&bbn=16392737031&rh=n%3A2454178031%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&dc&page=2&qid=1738213183&rnid=2665398031&xpid=aNMbtoCINuuXk&ref=sr_pg_2",
-      "discount_bar": 60
-    }
-  ]
+  "urlAndDiscount": {
+    "url": "https://www.amazon.in/s?i=grocery&bbn=16392737031&rh=n%3A2454178031%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&dc&page=2&qid=1738213183&rnid=2665398031&xpid=aNMbtoCINuuXk&ref=sr_pg_2",
+    "discount_bar": 60
+  }
 }
