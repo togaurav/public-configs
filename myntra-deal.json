@@ -1,0 +1,240 @@
+{
+  "responseType": "success",
+  "totalCount": 100,
+  "totalCountRepresentation": "100+",
+  "hasNextPage": true,
+  "filters": {
+    "savedFilters": [],
+    "primaryFilters": [
+      {
+        "id": "brand",
+        "filterValues": [
+          {
+            "id": "nike",
+            "value": "Nike",
+            "count": 20,
+            "meta": "popular",
+            "pLevel": "1",
+            "icon": "nike-icon.png",
+            "hideCount": false
+          }
+        ]
+      }
+    ],
+    "secondaryFilters": [],
+    "rangeFilters": [
+      {
+        "id": "price",
+        "gap": 500,
+        "start": 500,
+        "end": 5000,
+        "filterValues": [
+          {
+            "id": "mid-range",
+            "count": 50,
+            "start": 1000,
+            "end": 3000,
+            "pLevel": "2"
+          }
+        ]
+      }
+    ],
+    "genericRangeFilters": [],
+    "geoFilters": [],
+    "geoSpecificFilters": [],
+    "inlineFilters": [],
+    "pillsFilters": [],
+    "collapsiblePillsFilters": [],
+    "nestedFilters": [],
+    "inlineFiltersGroups": null,
+    "derivedFilters": [],
+    "preferredFilters": [],
+    "collapsibleAtRackFilters": [],
+    "collapsibleAtsaRackFilters": []
+  },
+  "products": [
+    {
+      "landingPageUrl": "/product/nike-shoes",
+      "loyaltyPointsEnabled": true,
+      "adId": "ad123",
+      "isPLA": false,
+      "productId": 123456,
+      "product": "Nike Running Shoes",
+      "productName": "Nike Air Zoom Pegasus",
+      "rating": 4.5,
+      "ratingCount": 1200,
+      "isFastFashion": false,
+      "futureDiscountedPrice": 0,
+      "futureDiscountStartDate": "",
+      "discount": 20,
+      "brand": "Nike",
+      "searchImage": "nike-shoe.jpg",
+      "effectiveDiscountPercentageAfterTax": 18,
+      "effectiveDiscountAmountAfterTax": 900,
+      "buyButtonWinnerSkuId": 789456,
+      "buyButtonWinnerSellerPartnerId": 34567,
+      "relatedStylesCount": 5,
+      "relatedStylesType": "color",
+      "productVideos": [],
+      "inventoryInfo": [
+        {
+          "skuId": 789456,
+          "label": "Nike Pegasus 39",
+          "inventory": 50,
+          "available": true,
+          "brandSizeLabel": "UK 9"
+        }
+      ],
+      "colourVariants": [],
+      "sizes": "UK 7, UK 8, UK 9",
+      "images": [
+        {
+          "view": "front",
+          "src": "nike-front.jpg"
+        },
+        {
+          "view": "side",
+          "src": "nike-side.jpg"
+        }
+      ],
+      "gender": "Men",
+      "primaryColour": "Black",
+      "discountLabel": "20% OFF",
+      "discountDisplayLabel": "Flat 20% off",
+      "additionalInfo": "Best for running",
+      "category": "Shoes",
+      "mrp": 4999,
+      "price": 3999,
+      "advanceOrderTag": "",
+      "colorVariantAvailable": true,
+      "productimagetag": "",
+      "listViews": 25000,
+      "discountType": "Flat",
+      "tdBxGyText": "",
+      "catalogDate": "2024-02-15",
+      "season": "Summer",
+      "year": "2024",
+      "isPersonalised": false,
+      "eorsPicksTag": "",
+      "personalizedCoupon": "NEWUSER",
+      "personalizedCouponValue": 500,
+      "productMeta": "",
+      "systemAttributes": [],
+      "attributeTagsPriorityList": [],
+      "preferredDeliveryTag": "Fast Delivery",
+      "deliveryPromise": "2 Days",
+      "expressTags": [],
+      "couponData": {
+        "couponDiscount": 500,
+        "endDate": "2024-03-01",
+        "tagLink": "",
+        "couponDescription": {
+          "description": "Use code NEWUSER for extra discount",
+          "couponCode": "NEWUSER",
+          "bestPrice": 3499,
+          "bestPriceText": "Best Price ₹3499",
+          "templateInfo": {
+            "templateName": "Flat Discount",
+            "attributes": {
+              "couponDiscount": "500",
+              "couponCode": "NEWUSER",
+              "bestPrice": "3499",
+              "bestPriceText": "Best Price ₹3499"
+            }
+          }
+        }
+      },
+      "productMetaData": {
+        "plaSlot": false,
+        "plaSlotType": "",
+        "plaReason": "",
+        "plaRank": 0,
+        "adSource": "",
+        "adsMeta": null,
+        "lmsMetadata": "",
+        "isUld": false,
+        "organicMeta": {
+          "metasrcDsExplore": "true",
+          "metasrcDsCohort": "",
+          "metasrcDsFwdCohort": "",
+          "exploreReason": "Trending",
+          "exploreSlot": true,
+          "isExplore": true
+        }
+      },
+      "virtualTryOn": {
+        "vtrPartner": "Nike-VTO"
+      },
+      "vtrApplicable": true,
+      "articleType": {
+        "typeName": "Running Shoes"
+      },
+      "subCategory": {
+        "typeName": "Sports Shoes"
+      },
+      "masterCategory": {
+        "typeName": "Footwear"
+      },
+      "mediaData": [],
+      "hasMultipleSizes": true,
+      "relatedColoursCount": 3,
+      "styleTagEntry": {
+        "tagGroups": {
+          "attributeTags": null,
+          "miscTags": null,
+          "pricing": {
+            "tagInfos": [
+              {
+                "name": "Discounted",
+                "tagId": "tag123"
+              }
+            ]
+          },
+          "selection": {
+            "tagInfos": [
+              {
+                "name": "Best Seller",
+                "tagId": "tag456"
+              }
+            ]
+          },
+          "trends": null,
+          "trust": null,
+          "xcelerator": {
+            "tagInfos": [
+              {
+                "name": "Fast Selling",
+                "tagId": "tag789"
+              }
+            ]
+          }
+        }
+      },
+      "brandLogo": "nike-logo.png",
+      "rankingSource": null
+    }
+  ],
+  "sortOptions": ["Popularity", "Price: Low to High", "Price: High to Low"],
+  "appliedParams": {
+    "selectAllChecked": "false",
+    "filters": [],
+    "geoFilters": [],
+    "geoSpecificFilters": [],
+    "rangeFilters": [
+      {
+        "id": "price",
+        "values": [
+          {
+            "id": "mid-range",
+            "start": 1000,
+            "end": 3000,
+            "displayTitle": "₹1000 - ₹3000"
+          }
+        ]
+      }
+    ],
+    "genericRangeFilters": [],
+    "nestedFilters": [],
+    "sort": "Popularity"
+  }
+}
