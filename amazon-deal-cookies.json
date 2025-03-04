@@ -26,9 +26,9 @@
     }
   ],
   "searchItems": [
- {
-    "url": "https://www.amazon.in/s?i=grocery&rh=n%3A2454178031%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank",
-    "discount_bar": "60"
-  }
+    {
+      "url": "https://www.amazon.in/s?i=grocery&rh=n%3A2454178031%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank",
+      "discount_bar": "60"
+    }
   ]
 }
