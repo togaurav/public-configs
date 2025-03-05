@@ -85,6 +85,10 @@
     {
       "search_keyword": "egg",
       "discount_bar": 40
+    },
+    {
+      "search_keyword": "battery",
+      "discount_bar": 40
     }
   ]
 }
