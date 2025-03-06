@@ -8,7 +8,8 @@
       "search_keyword": "Kurtis For Women",
       "discount_bar": 70,
       "filter": {
-        "brand": ["AURELIA","AVAYAYAT","Anouk Rustic","Libas"]
+        "brand": ["AURELIA","AVAYAYAT", "Anouk Rustic","Libas"]
+      }
     }
   ]
 }
