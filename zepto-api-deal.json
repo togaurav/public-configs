@@ -13,6 +13,9 @@
   ],
   "searchItems": [
     {
+      "search_keyword": "Tilapia"
+    },
+    {
       "search_keyword": "atta",
       "discount_bar": 50
     },
@@ -83,9 +86,6 @@
     {
       "search_keyword": "battery",
       "discount_bar": 50
-    },
-    {
-      "search_keyword": "Tilapia"
     }
   ]
 }
