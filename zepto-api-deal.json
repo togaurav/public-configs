@@ -65,15 +65,15 @@
     },
     {
       "search_keyword": "cashew",
-      "discount_bar": 60
+      "discount_bar": 50
     },
     {
       "search_keyword": "almond",
-      "discount_bar": 70
+      "discount_bar": 60
     },
     {
-      "search_keyword": "pistachio",
-      "discount_bar": 60
+      "search_keyword": "pista",
+      "discount_bar": 50
     },
     {
       "search_keyword": "curd",
