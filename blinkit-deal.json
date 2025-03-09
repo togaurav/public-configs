@@ -1,0 +1,80 @@
+{
+  "searchItems": [
+    {
+      "search_keyword": "atta",
+      "discount_bar": 50
+    },
+    {
+      "search_keyword": "daily good",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "rice",
+      "discount_bar": 60
+    },
+    {
+      "search_keyword": "detergent",
+      "discount_bar": 60
+    },
+    {
+      "search_keyword": "Ice Creams",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "shampoo",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "namkeen",
+      "discount_bar": 60
+    },
+    {
+      "search_keyword": "oil",
+      "discount_bar": 60
+    },
+    {
+      "search_keyword": "chicken",
+      "discount_bar": 55
+    },
+    {
+      "search_keyword": "fish",
+      "discount_bar": 55
+    },
+    {
+      "search_keyword": "dal",
+      "discount_bar": 60
+    },
+    {
+      "search_keyword": "Popular Essentials",
+      "discount_bar": 70
+    },
+    {
+      "search_keyword": "cashew",
+      "discount_bar": 50
+    },
+    {
+      "search_keyword": "almond",
+      "discount_bar": 60
+    },
+    {
+      "search_keyword": "pista",
+      "discount_bar": 50
+    },
+    {
+      "search_keyword": "curd",
+      "discount_bar": 50
+    },
+    {
+      "search_keyword": "paneer",
+      "discount_bar": 50
+    },
+    {
+      "search_keyword": "duracell",
+      "discount_bar": 50
+    },
+    {
+      "search_keyword": "Cassata",
+      "discount_bar": 40
+    }
+  ]
+}
