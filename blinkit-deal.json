@@ -1,80 +1,81 @@
 {
+  "store": [
+    {
+      "add": "g210",
+      "lat": "12.9700680",
+      "lon": "77.7671612"
+    },
+    {
+      "add": "dd",
+      "lat": "12.9563746",
+      "lon": "77.7414733"
+    }
+  ],
   "searchItems": [
     {
-      "search_keyword": "atta",
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=14&l1_cat=922&page=0",
+      "search_keyword": "milk",
       "discount_bar": 50
     },
     {
-      "search_keyword": "daily good",
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=14&l1_cat=953&page=0",
+      "search_keyword": "bread & pav",
+      "discount_bar": 60
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=14&l1_cat=923&page=0",
+      "search_keyword": "paneer",
+      "discount_bar": 60
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=14&l1_cat=1295&page=0",
+      "search_keyword": "poha",
       "discount_bar": 70
     },
     {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=1487&l1_cat=3989&page=0",
+      "search_keyword": "fruit & vegetables",
+      "discount_bar": 70
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=16&l1_cat=1165&page=0",
+      "search_keyword": "atta",
+      "discount_bar": 60
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=16&l1_cat=1161&page=0",
       "search_keyword": "rice",
       "discount_bar": 60
     },
     {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=16&l1_cat=1010&page=0",
+      "search_keyword": "chana & toor dal",
+      "discount_bar": 55
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=16&l1_cat=505&page=0",
+      "search_keyword": "moong & masoor dal",
+      "discount_bar": 55
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=188&l1_cat=988&page=0",
+      "search_keyword": "dishwashing bars",
+      "discount_bar": 60
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=188&l1_cat=983&page=0",
       "search_keyword": "detergent",
       "discount_bar": 60
     },
     {
-      "search_keyword": "Ice Creams",
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=188&l1_cat=987&page=0",
+      "search_keyword": "toilet & bathroom cleaner",
       "discount_bar": 70
     },
     {
-      "search_keyword": "shampoo",
-      "discount_bar": 70
-    },
-    {
-      "search_keyword": "namkeen",
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=188&l1_cat=3882&page=0",
+      "search_keyword": "liquid detergent",
       "discount_bar": 60
-    },
-    {
-      "search_keyword": "oil",
-      "discount_bar": 60
-    },
-    {
-      "search_keyword": "chicken",
-      "discount_bar": 55
-    },
-    {
-      "search_keyword": "fish",
-      "discount_bar": 55
-    },
-    {
-      "search_keyword": "dal",
-      "discount_bar": 60
-    },
-    {
-      "search_keyword": "Popular Essentials",
-      "discount_bar": 70
-    },
-    {
-      "search_keyword": "cashew",
-      "discount_bar": 50
-    },
-    {
-      "search_keyword": "almond",
-      "discount_bar": 60
-    },
-    {
-      "search_keyword": "pista",
-      "discount_bar": 50
-    },
-    {
-      "search_keyword": "curd",
-      "discount_bar": 50
-    },
-    {
-      "search_keyword": "paneer",
-      "discount_bar": 50
-    },
-    {
-      "search_keyword": "duracell",
-      "discount_bar": 50
-    },
-    {
-      "search_keyword": "Cassata",
-      "discount_bar": 40
     }
   ]
 }
