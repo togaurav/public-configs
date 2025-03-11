@@ -9,6 +9,11 @@
       "add": "dd",
       "lat": "12.9563746",
       "lon": "77.7414733"
+    },
+    {
+      "add": "lko",
+      "lat": "26.8965207",
+      "lon": "81.0613772"
     }
   ],
   "searchItems": [
@@ -20,12 +25,12 @@
     {
       "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=14&l1_cat=953",
       "search_keyword": "bread & pav",
-      "discount_bar": 60
+      "discount_bar": 50
     },
     {
       "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=14&l1_cat=923",
       "search_keyword": "paneer",
-      "discount_bar": 60
+      "discount_bar": 50
     },
     {
       "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=14&l1_cat=1295",
@@ -40,7 +45,7 @@
     {
       "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=16&l1_cat=1165",
       "search_keyword": "atta",
-      "discount_bar": 60
+      "discount_bar": 50
     },
     {
       "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=16&l1_cat=1161",
@@ -50,12 +55,12 @@
     {
       "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=16&l1_cat=1010",
       "search_keyword": "chana & toor dal",
-      "discount_bar": 55
+      "discount_bar": 60
     },
     {
       "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=16&l1_cat=505",
       "search_keyword": "moong & masoor dal",
-      "discount_bar": 55
+      "discount_bar": 60
     },
     {
       "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=188&l1_cat=988",
@@ -76,6 +81,36 @@
       "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=188&l1_cat=3882",
       "search_keyword": "liquid detergent",
       "discount_bar": 60
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=675&l1_cat=5215",
+      "search_keyword": "toys guns",
+      "discount_bar": 70
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=675&l1_cat=5192",
+      "search_keyword": "toys cars",
+      "discount_bar": 70
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=675&l1_cat=2514",
+      "search_keyword": "toys guns",
+      "discount_bar": 70
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=5159&l1_cat=1187",
+      "search_keyword": "electrical accessories",
+      "discount_bar": 70
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=5159&l1_cat=1445",
+      "search_keyword": "decorative lights",
+      "discount_bar": 80
+    },
+    {
+      "url": "https://blinkit.com/v1/listing/widgets?sort=discount_desc&l0_cat=5159&l1_cat=1886",
+      "search_keyword": "appliances",
+      "discount_bar": 80
     }
   ]
 }
