@@ -18,11 +18,11 @@
   ],
   "searchItems": [ 
     {
-      "search_keyword": "fruits-vegetables",
+      "search_keyword": "vegetables",
       "discount_bar": 80
     },
     {
-      "search_keyword": "dry-fruits",
+      "search_keyword": "dry fruits",
       "discount_bar": 70
     },
     {
@@ -34,7 +34,7 @@
       "discount_bar": 60
     },
     {
-      "search_keyword": "ice-creams-desserts",
+      "search_keyword": "ice creams",
       "discount_bar": 70
     },
     {
@@ -50,24 +50,12 @@
       "discount_bar": 60
     },
     {
-      "search_keyword": "dals-pulses",
+      "search_keyword": "dal",
       "discount_bar": 60
     },
     {
-      "search_keyword": "Popular-Essentials",
+      "search_keyword": "fruits",
       "discount_bar": 70
-    },
-    {
-      "search_keyword": "cashew",
-      "discount_bar": 50
-    },
-    {
-      "search_keyword": "almond",
-      "discount_bar": 60
-    },
-    {
-      "search_keyword": "pista",
-      "discount_bar": 50
     },
     {
       "search_keyword": "curd",
