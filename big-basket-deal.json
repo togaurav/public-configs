@@ -22,7 +22,7 @@
       "discount_bar": 50
     },
     {
-      "search_keyword": "daily good",
+      "search_keyword": "daily-good",
       "discount_bar": 70
     },
     {
@@ -34,7 +34,7 @@
       "discount_bar": 60
     },
     {
-      "search_keyword": "Ice%20Creams",
+      "search_keyword": "Ice-Creams",
       "discount_bar": 70
     },
     {
@@ -62,7 +62,7 @@
       "discount_bar": 60
     },
     {
-      "search_keyword": "Popular%20Essentials",
+      "search_keyword": "Popular-Essentials",
       "discount_bar": 70
     },
     {
@@ -92,6 +92,10 @@
     {
       "search_keyword": "Cassata",
       "discount_bar": 40
+    }
+    {
+      "search_keyword": "atta",
+      "discount_bar": 50
     }
   ]
 }
