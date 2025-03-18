@@ -34,6 +34,16 @@
       "url": "https://www.ajio.com/search/?query=%3Adiscount-desc%3Abrand%3AXYXX%3Abrand%3AARMANI%20EXCHANGE%3Abrand%3ACalvin%20Klein%20Underwear%3Abrand%3ADIXCY%20SCOTT%20MAXIMUS%3Abrand%3ADIXCY%20SCOTT%20ORIGINALS%3Abrand%3ADollar%3Abrand%3ADOLLAR%20BIGBOSS%3Abrand%3ADOLLAR%20LEHAR%3Abrand%3ADOLLAR%20MISSY%3Abrand%3ADIESEL%3Abrand%3ADAMENSCH%3Abrand%3AEnamor%3Abrand%3AFORCE%20NXT%3Abrand%3AFCUK%3Abrand%3AFrench%20Connection%3Abrand%3AGAP%3Abrand%3AGAS%3Abrand%3AGUESS%3Abrand%3AHANES%3Abrand%3AJack%20%26%20Jones%3Abrand%3AJockey%3Abrand%3AJOHN%20PLAYERS%3Abrand%3ALEVI%27S%3Abrand%3ALEVIS%3Abrand%3ALUX%20COZI%3Abrand%3ALUX%20VENUS%3Abrand%3ALYRA%3Abrand%3AMAX%3Abrand%3AMarks%20%26%20Spencer%3Abrand%3AMothercare%3Abrand%3APETER%20ENGLAND%3Abrand%3APrettySecrets%3Abrand%3APuma%3Abrand%3ASUPERDRY%3Abrand%3AU.S.%20Polo%20Assn.%3Abrand%3AUnderjeans%20by%20Spykar%3Abrand%3AUnder%20Colors%20of%20Benetton%3Abrand%3AVero%20Moda%20Intimates%3Abrand%3AVIP%3Abrand%3AVero%20Moda%3Abrand%3AVANHEUSEN%20FLEX%3Abrand%3AVAN%20HEUSEN%3Adiscount%3A81-100%25&text=undergraments&classifier=intent&gridColumns=3&segmentIds=",
       "search_keyword": "undergraments",
       "discount_bar": 80
-    }
+    },
+    {
+     "url": "https://www.ajio.com/search/?query=%3Adiscount-desc%3Al1l3nestedcategory%3AMen%20-%20Shampoos%20%26%20Conditioners%3Al1l3nestedcategory%3AWomen%20-%20Face%20%26%20Body%3Al1l3nestedcategory%3AWomen%20-%20Bath%20%26%20Shower%3Al1l3nestedcategory%3AWomen%20-%20Shampoos%20%26%20Conditioner%3Abrand%3ADOVE%3Abrand%3AHead%20%26%20Shoulders%3Abrand%3AJohnson%27s%20baby%3Abrand%3AL%27Oreal%20Paris%3Abrand%3ALAKME%3Abrand%3AL%E2%80%99Or%C3%A9al%20Paris%3Abrand%3AMAMAEARTH%3Abrand%3AURBAN%3Abrand%3ATRESEMME%3Abrand%3AVolamena%3Abrand%3AWishCare%3Adiscount%3A51-80%25&text=Hair%20care&classifier=intent&gridColumns=3&segmentIds=",
+      "search_keyword": "Hair Care",
+      "discount_bar": 80
+    },
+    {
+      "url": "https://www.ajio.com/s/make-up-5694-79021?query=%3Adiscount-desc%3Abrand%3AM.A.C%3Abrand%3ALAKME%3Abrand%3AMakeup%20Revolution%3Abrand%3AAqualogica%3Abrand%3ACOLORBAR%3Abrand%3ABOBBI%20BROWN%3Abrand%3ATnw%20The%20Natural%20Wash%3Abrand%3APilgrim%3Abrand%3APlum%3Abrand%3ARenee%3Abrand%3ARevolution%20Pro%3Abrand%3ASugar%20Cosmetics%3Abrand%3AWishCare%3Abrand%3AWELLA%20PROFESSIONALS%3Abrand%3AFixderma%3Abrand%3AFOXTALE%3Abrand%3ALOTUS%3Abrand%3AL%E2%80%99Or%C3%A9al%20Paris%3Abrand%3AMaybelline%20New%20York%3Abrand%3AMcaffeine%3Abrand%3AO3%2B%3Abrand%3ATIRA%3Adiscount%3A81-100%25&classifier=intent&curated=true&curatedid=make-up-5694-79021&gridColumns=3&sort=discount-desc&segmentIds=",
+      "search_keyword": "Make Up",
+      "discount_bar": 80
+   }
   ]
 }
