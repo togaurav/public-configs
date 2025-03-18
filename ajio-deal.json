@@ -24,6 +24,16 @@
       "url": "https://www.ajio.com/search/?query=%3Adiscount-desc%3Abrand%3ALibas%3Abrand%3AANOKHERANG%3Abrand%3AANUBHUTEE%3Abrand%3AAURELIA%3Abrand%3ABiba%3Abrand%3AJaipur%20Kurti%3Abrand%3AIndo%20Era%3Abrand%3AIridaa%20Jaipur%3Abrand%3AIndo%20Raga%3Abrand%3AFIORRA%3Abrand%3AJaitpuriya%3Abrand%3AJanki%20India%3Abrand%3ARajnandini%3Adiscount%3A81-100%25&text=kurta%20sets&classifier=intent&gridColumns=3&segmentIds=",
       "search_keyword": "kurta sets",
       "discount_bar": 80
+    },
+    {
+      "url": "https://www.ajio.com/c/8312?query=%3Adiscount-desc%3Al1l3nestedcategory%3AHome%20%26%20Kitchen%20-%20Bedsheets%3Al1l3nestedcategory%3AHome%20%26%20Kitchen%20-%20Blankets%2C%20Dohars%20%26%20Quilts%3Al1l3nestedcategory%3AHome%20%26%20Kitchen%20-%20Towels%20%26%20Bath%20Robes%3Abrand%3ABOMBAY%20DYEING%3Abrand%3ADAMENSCH%3Abrand%3ADollar%3Abrand%3ADuroflex%3Abrand%3ARaymond%20Home%3Abrand%3AFabindia%3Abrand%3AHomefab%20India%3Abrand%3AJockey%3Abrand%3AMarks%20%26%20Spencer%3Abrand%3AMothercare%3Abrand%3AMONTE%20CARLO%3Abrand%3APuma%3Abrand%3ASPACES%3Abrand%3ATRIDENT%3Abrand%3AUrban%20Space%3Adiscount%3A81-100%25&gridColumns=3&segmentIds=22%2C15%2C7%2C18&cohortIds=supervalue%7Cmen%2Cnobrand%2Cactive%2Cnextpurchaser%2Cspeed%2CAPM25_20_100%2CUNISEX_0_500&customerType=Existing&userClusterId=supervalue%7Cmen%2Cnobrand%2Cactive%2Cnextpurchaser%2Cspeed%2CAPM25_20_100%2CUNISEX_0_500&customertype=Existing",
+      "search_keyword": "bedsheets",
+      "discount_bar": 80
+    },
+    {
+      "url": "https://www.ajio.com/search/?query=%3Adiscount-desc%3Abrand%3AXYXX%3Abrand%3AARMANI%20EXCHANGE%3Abrand%3ACalvin%20Klein%20Underwear%3Abrand%3ADIXCY%20SCOTT%20MAXIMUS%3Abrand%3ADIXCY%20SCOTT%20ORIGINALS%3Abrand%3ADollar%3Abrand%3ADOLLAR%20BIGBOSS%3Abrand%3ADOLLAR%20LEHAR%3Abrand%3ADOLLAR%20MISSY%3Abrand%3ADIESEL%3Abrand%3ADAMENSCH%3Abrand%3AEnamor%3Abrand%3AFORCE%20NXT%3Abrand%3AFCUK%3Abrand%3AFrench%20Connection%3Abrand%3AGAP%3Abrand%3AGAS%3Abrand%3AGUESS%3Abrand%3AHANES%3Abrand%3AJack%20%26%20Jones%3Abrand%3AJockey%3Abrand%3AJOHN%20PLAYERS%3Abrand%3ALEVI%27S%3Abrand%3ALEVIS%3Abrand%3ALUX%20COZI%3Abrand%3ALUX%20VENUS%3Abrand%3ALYRA%3Abrand%3AMAX%3Abrand%3AMarks%20%26%20Spencer%3Abrand%3AMothercare%3Abrand%3APETER%20ENGLAND%3Abrand%3APrettySecrets%3Abrand%3APuma%3Abrand%3ASUPERDRY%3Abrand%3AU.S.%20Polo%20Assn.%3Abrand%3AUnderjeans%20by%20Spykar%3Abrand%3AUnder%20Colors%20of%20Benetton%3Abrand%3AVero%20Moda%20Intimates%3Abrand%3AVIP%3Abrand%3AVero%20Moda%3Abrand%3AVANHEUSEN%20FLEX%3Abrand%3AVAN%20HEUSEN%3Adiscount%3A81-100%25&text=undergraments&classifier=intent&gridColumns=3&segmentIds=",
+      "search_keyword": "undergraments",
+      "discount_bar": 80
     }
   ]
 }
