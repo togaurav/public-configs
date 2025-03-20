@@ -1,5 +1,10 @@
 [
   {
+    "url": "https://api.croma.com/searchservices/v1/category/931?currentPage=0&query=:discount-desc:SG-ManufacturerDetails-Brand:Samsung:SG-ManufacturerDetails-Brand:Apple&fields=FULL&channel=WEB&channelCode=560066",
+    "discount": 80,
+    "pincodes": [560066,226028,560067,273008]
+  },
+  {
     "url": "https://api.croma.com/searchservices/v1/category/997?fields=FULL&channel=WEB&query=:discount-desc:SG-ManufacturerDetails-Brand:Samsung:SG-ManufacturerDetails-Brand:LG:SG-ManufacturerDetails-Brand:TCL:SG-ManufacturerDetails-Brand:iFFALCON:SG-ManufacturerDetails-Brand:Akai:SG-ManufacturerDetails-Brand:Foxsky:SG-ManufacturerDetails-Brand:Haier:discount_group:80%25%20And%20Above",
     "discount": 80,
     "pincodes": [560066,226028,560067,273008]
