@@ -1,7 +1,7 @@
 [
   {
     "url": "https://api.croma.com/searchservices/v1/category/931?currentPage=0&query=:discount-desc:SG-ManufacturerDetails-Brand:Samsung:SG-ManufacturerDetails-Brand:Apple&fields=FULL&channel=WEB&channelCode=560066",
-    "discount": 80,
+    "discount": 50,
     "pincodes": [560066,226028,560067,273008]
   },
   {
