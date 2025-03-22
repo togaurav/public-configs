@@ -1,7 +1,7 @@
 [
   {
-    "dest": "LKO",
-    "source": "BLR",
+    "dest": "BLR",
+    "source": "LKO",
     "dates": [
       "2025-05-20",
       "2025-05-26"
@@ -9,8 +9,8 @@
     "price_cutoff": 4000
   },
     {
-    "dest": "GOP",
-    "source": "BLR",
+    "dest": "BLR",
+    "source": "GOP",
     "dates": [
       "2025-05-20",
       "2025-05-26"
@@ -18,8 +18,8 @@
     "price_cutoff": 4000
   },
     {
-    "dest": "AYJ",
-    "source": "BLR",
+    "dest": "BLR",
+    "source": "AYJ",
     "dates": [
       "2025-05-20",
       "2025-05-26"
